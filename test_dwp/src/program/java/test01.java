@@ -13,7 +13,7 @@ public class test01 {
 		
 		System.out.println("Hello Seoul2 !!!");
 
-		System.out.println("Hello Seoul3 !!!");
+		System.out.println("Hello Seoul4 !!!");
 		
 		
 	}
