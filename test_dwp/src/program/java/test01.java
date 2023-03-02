@@ -9,6 +9,8 @@ public class test01 {
 		
 		System.out.println("Hello Korea !!!");
 		
+		System.out.println("Hello Seoul !!!");
+		
 	}
 
 }
