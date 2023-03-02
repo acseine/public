@@ -11,6 +11,8 @@ public class test01 {
 		
 		System.out.println("Hello Seoul !!!");
 		
+		System.out.println("Hello Seoul2 !!!");
+		
 	}
 
 }
